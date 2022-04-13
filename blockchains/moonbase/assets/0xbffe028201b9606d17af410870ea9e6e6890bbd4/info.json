@@ -1,0 +1,12 @@
+{
+  "name": "Multichain MoonBase USD Coin",
+  "website": "https://www.centre.io",
+  "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+  "explorer": "https://moonbase.moonscan.io/address/0xbffe028201b9606d17af410870ea9e6e6890bbd4",
+  "research": "https://research.binance.com/en/projects/usd-coin",
+  "type": "VRC20",
+  "symbol": "USDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbffe028201b9606d17af410870ea9e6e6890bbd4"
+}

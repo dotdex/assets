@@ -1,0 +1,11 @@
+{
+  "name": "DOTDEX Token",
+  "symbol": "DOTDEX",
+  "type": "VRC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://dotdex.io/",
+  "explorer": "https://moonbase.moonscan.io/address/0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27",
+  "status": "active",
+  "id": "0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27"
+}
